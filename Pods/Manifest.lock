@@ -1,0 +1,18 @@
+PODS:
+  - AsyncSwift (2.0.1)
+  - PermissionScope (1.1.1)
+  - SwiftyTimer (2.0.0)
+
+DEPENDENCIES:
+  - AsyncSwift
+  - PermissionScope
+  - SwiftyTimer
+
+SPEC CHECKSUMS:
+  AsyncSwift: 632138e42ead868b53c745fcde9bf733ce1527ad
+  PermissionScope: a30c16e015779ba27c97c124e7539e27b5829de2
+  SwiftyTimer: 2efd74b060d69ad4f1496baf5bbedbe132125fcf
+
+PODFILE CHECKSUM: f03e97b83b4f5e0d1599b29691d0effc46ced705
+
+COCOAPODS: 1.2.0

@@ -1,0 +1,6 @@
+framework module Pods_funimateTests {
+  umbrella header "Pods-funimateTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_funimate {
+  umbrella header "Pods-funimate-umbrella.h"
+
+  export *
+  module * { export * }
+}
