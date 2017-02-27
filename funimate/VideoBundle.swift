@@ -44,7 +44,7 @@ extension VideoBundle {
 extension VideoBundle {
     
     struct Constants {
-        static let maximumDuration = 5.0
+        static let maximumDuration = 15.0
     }
     
 }
